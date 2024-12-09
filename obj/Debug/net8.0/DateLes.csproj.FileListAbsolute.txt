@@ -1,0 +1,17 @@
+/home/amano/DateLes/bin/Debug/net8.0/DateLes
+/home/amano/DateLes/bin/Debug/net8.0/DateLes.deps.json
+/home/amano/DateLes/bin/Debug/net8.0/DateLes.runtimeconfig.json
+/home/amano/DateLes/bin/Debug/net8.0/DateLes.dll
+/home/amano/DateLes/bin/Debug/net8.0/DateLes.pdb
+/home/amano/DateLes/bin/Debug/net8.0/Spectre.Console.dll
+/home/amano/DateLes/obj/Debug/net8.0/DateLes.csproj.AssemblyReference.cache
+/home/amano/DateLes/obj/Debug/net8.0/DateLes.GeneratedMSBuildEditorConfig.editorconfig
+/home/amano/DateLes/obj/Debug/net8.0/DateLes.AssemblyInfoInputs.cache
+/home/amano/DateLes/obj/Debug/net8.0/DateLes.AssemblyInfo.cs
+/home/amano/DateLes/obj/Debug/net8.0/DateLes.csproj.CoreCompileInputs.cache
+/home/amano/DateLes/obj/Debug/net8.0/DateLes.csproj.CopyComplete
+/home/amano/DateLes/obj/Debug/net8.0/DateLes.dll
+/home/amano/DateLes/obj/Debug/net8.0/refint/DateLes.dll
+/home/amano/DateLes/obj/Debug/net8.0/DateLes.pdb
+/home/amano/DateLes/obj/Debug/net8.0/DateLes.genruntimeconfig.cache
+/home/amano/DateLes/obj/Debug/net8.0/ref/DateLes.dll
